@@ -32,9 +32,6 @@
   <a href="https://instagram.com/romario_f_silva_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://wa.me/5579999999999" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
 </div>
 
 ---
@@ -80,7 +77,7 @@
   <p>
     <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br" alt="GitHub Stats" />
     <img width="2%" alt="" />
-    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Silva-D-Romario&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br" alt="GitHub Streak" />
+      <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Silva-D-Romario&theme=gotham&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
   </p>
   
   <!-- Top Languages -->
