@@ -73,16 +73,13 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <!-- GitHub Stats -->
   <p>
-    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br" alt="GitHub Stats" />
+    <img width="46%" src="profile/github-stats.svg" alt="GitHub Stats" />
     <img width="2%" alt="" />
-      <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Silva-D-Romario&theme=gotham&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
+    <img width="46%" src="profile/github-streak.svg" alt="GitHub Streak" />
   </p>
-  
-  <!-- Top Languages -->
   <p>
-  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=6&locale=pt-br" alt="Top Languages" />
+    <img width="40%" src="profile/top-langs.svg" alt="Top Languages" />
   </p>
 </div>
 
@@ -96,10 +93,18 @@
 
 ---
 
- <!--
 ## 🏆 Conquistas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Silva-D-Romario&theme=gotham&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
--->
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Silva-D-Romario&label=👁️%20Visualizações%20do%20Perfil&color=00A859&style=flat" alt="Profile views" />
+  
+  <br />
+  
+  ⭐ **Obrigado pela visita! Vamos codar!** 🚀
+</div>
