@@ -15,29 +15,20 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Create profile directory
+        run: mkdir -p profile
+
       - name: Generate Top Languages Card
-        uses: soulteary/github-readme-stats-action@v1.0.0
-        with:
-          card: top-langs
-          options: 'username=Silva-D-Romario&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=8&locale=pt-br'
-          path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -sSL "https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=8&locale=pt-br" -o profile/top-langs.svg
 
       - name: Generate GitHub Stats Card
-        uses: soulteary/github-readme-stats-action@v1.0.0
-        with:
-          card: stats
-          options: 'username=Silva-D-Romario&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br'
-          path: profile/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -sSL "https://github-readme-stats.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br" -o profile/github-stats.svg
 
       - name: Generate GitHub Streak Card
-        uses: soulteary/github-readme-stats-action@v1.0.0
-        with:
-          card: streak
-          options: 'username=Silva-D-Romario&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br'
-          path: profile/github-streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          curl -sSL "https://github-readme-streak-stats.herokuapp.com/?user=Silva-D-Romario&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br" -o profile/github-streak.svg
 
       - name: Commit and push changes
         run: |
