@@ -36,6 +36,7 @@
 
 <br>
 
+
 <div>
 <p align="center"> 
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=gotham" /> 
@@ -44,5 +45,18 @@
 </p>
   <p align="center"> 
     <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&theme=gotham&langs_count=6" /> 
+  </p>
+</div>
+
+
+
+
+<div align="center">
+  <p>
+    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Silva-D-Romario&theme=gotham&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages" />
   </p>
 </div>
