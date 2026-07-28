@@ -82,7 +82,7 @@
   
   <!-- Top Languages -->
   <p>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=6&locale=pt-br" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=6&locale=pt-br" alt="Top Languages" />
   </p>
 </div>
 
@@ -96,8 +96,10 @@
 
 ---
 
+ <!--
 ## 🏆 Conquistas
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Silva-D-Romario&theme=gotham&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
+-->
