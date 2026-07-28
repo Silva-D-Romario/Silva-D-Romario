@@ -1,48 +1,106 @@
-<h1 >Olá! eu sou Romário Silva</h1>
-
-<p> 📔 Sou estudante de Sistemas de informação no IFS.</p>
-<p> 🧑‍💻 Tenho preferência pelo backend mas estou disposto a fazer o front também</p>
-<p> 📝 Estou sempre em busca de novos conhecimentos!</p>
-
-<h2 align="left">Contato:</h2>
-<p align="left">
-<a href="mailto:romariosilva859@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email-open.png" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rom%C3%A1rio-silva-b587b228a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rom%C3%A1rio-silva-b587b228a" height="30" width="40" /></a>
-<a href="https://instagram.com/romario_f_silva_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_romario_silva._" height="30" width="40" /></a>
-</p>
-
-<h2>🛠 &nbsp;Linguagens e Ferramentas</h2>
-
-<h3>💻 &nbsp;Front-end:</h3>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<h3>⚙️ &nbsp;Back-end e Banco de Dados:</h3>
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-<h3>📱 &nbsp;Mobile e Outros:</h3>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<br>
-
+<h1 align="center">Olá! Eu sou Romário Silva 👋</h1>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A859&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia!;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+<p>
+  📔 Sou estudante de <strong>Sistemas de Informação</strong> no IFS.
+</p>
+<p>
+  🧑‍💻 Tenho preferência pelo <strong>backend</strong>, mas estou disposto a fazer o front também!
+</p>
+<p>
+  📝 Estou sempre em busca de novos conhecimentos!
+</p>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  <a href="mailto:romariosilva859@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/rom%C3%A1rio-silva-b587b228a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/romario_f_silva_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/5579999999999" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</div>
+
+---
+
+## 🛠️ Linguagens e Ferramentas
+
+### 💻 Front-end:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</div>
+
+### ⚙️ Back-end e Banco de Dados:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <br />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
+</div>
+
+### 📱 Mobile e Outros:
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <!-- GitHub Stats -->
   <p>
-    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Silva-D-Romario&theme=gotham&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
+    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br" alt="GitHub Stats" />
+    <img width="2%" alt="" />
+    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Silva-D-Romario&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br" alt="GitHub Streak" />
   </p>
+  
+  <!-- Top Languages -->
   <p>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=6" alt="Top Languages" />
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=6&locale=pt-br" alt="Top Languages" />
   </p>
+</div>
+
+---
+
+## 📈 Gráfico de Atividades
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Silva-D-Romario&theme=gotham&bg_color=0d1117&hide_border=true&area=true&custom_title=Atividade%20nos%20%C3%BAltimos%2030%20dias" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Silva-D-Romario&theme=gotham&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
