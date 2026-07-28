@@ -91,9 +91,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Silva-D-Romario&theme=gotham&bg_color=0d1117&hide_border=true&area=true&custom_title=Atividade%20nos%20%C3%BAltimos%2030%20dias" alt="Activity Graph" />
 </div>
 
+ <!--
 ---
 
- <!--
+
 ## 🏆 Conquistas
 
 <div align="center">
