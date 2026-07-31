@@ -98,16 +98,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Silva-D-Romario&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Silva-D-Romario&label=👁️%20Visualizações%20do%20Perfil&color=58A6FF&style=flat" />
