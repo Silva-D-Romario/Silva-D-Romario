@@ -73,14 +73,17 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <p>
-    <img width="46%" src="https://github-readme-stats.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br" alt="GitHub Stats" />
-    <img width="2%" alt="" />
-    <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=Silva-D-Romario&theme=gotham&hide_border=true&bg_color=0d1117&locale=pt-br" alt="GitHub Streak" />
-  </p>
-  <p>
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=8&locale=pt-br" alt="Top Languages" />
-  </p>
+
+  <img height="170em" src="https://github-readme-stats-silva07.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+
+  <img height="170em" src="https://streak-stats.demolab.com?user=Silva-D-Romario&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
+
+<div align="center">
+
+  <img height="170em" src="https://github-readme-stats-silva07.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" />
+
 </div>
 
 ---
@@ -88,7 +91,9 @@
 ## 📈 Gráfico de Atividades
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Silva-D-Romario&theme=gotham&bg_color=0d1117&hide_border=true&area=true&custom_title=Atividade%20nos%20%C3%BAltimos%2030%20dias" alt="Activity Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Silva-D-Romario&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribuições%20nos%20últimos%2030%20dias"/>
+
 </div>
 
 ---
@@ -96,15 +101,19 @@
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Silva-D-Romario&theme=gotham&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Silva-D-Romario&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Silva-D-Romario&label=👁️%20Visualizações%20do%20Perfil&color=00A859&style=flat" alt="Profile views" />
-  
-  <br />
-  
-  ⭐ **Obrigado pela visita! Vamos codar!** 🚀
+
+<img src="https://komarev.com/ghpvc/?username=Silva-D-Romario&label=👁️%20Visualizações%20do%20Perfil&color=58A6FF&style=flat" />
+
+<br><br>
+
+⭐ **Obrigado pela visita! Vamos codar!** 🚀
+
 </div>
