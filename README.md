@@ -80,11 +80,11 @@
 </div>
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats-silva07.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
+  <img height="190em" src="https://github-readme-stats-silva07.vercel.app/api?username=Silva-D-Romario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58A6FF&title_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800" />
 
   <img width="50" />
 
-  <img height="200em" src="https://github-readme-stats-silva07.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9" />
+  <img height="200em" src="https://github-readme-stats-silva07.vercel.app/api/top-langs/?username=Silva-D-Romario&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=1800" />
 </div>
 
 ---
