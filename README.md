@@ -75,7 +75,7 @@
 
 <div align="center">
  <img
-src="https://streak-stats.demolab.com?user=Silva-D-Romario&theme=github-dark"
+src="https://streak-stats.demolab.com?user=Silva-D-Romario&theme=tokyonight"
 />
 </div>
 
