@@ -74,11 +74,9 @@
 
 
 <div align="center">
-  <img
-    height="180em"
-    alt="GitHub Streak"
-    src="https://streak-stats.demolab.com?user=Silva-D-Romario&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&cache_seconds=600&v=2"
-  />
+ <img
+src="https://streak-stats.demolab.com?user=Silva-D-Romario&theme=github-dark"
+/>
 </div>
 
 <div align="center">
