@@ -75,7 +75,10 @@
 
 <div align="center">
 
- <img height="180em" src="https://streak-stats.demolab.com?user=Silva-D-Romario&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+ <img
+  height="180em"
+  src="https://streak-stats.demolab.com?user=Silva-D-Romario&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&cache_seconds=600"
+/>
 
 </div>
 
