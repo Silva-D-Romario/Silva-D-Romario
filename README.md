@@ -102,16 +102,6 @@ src="https://streak-stats.demolab.com?user=Silva-D-Romario&theme=tokyonight"
 
 ---
 
-## 📈 Gráfico de Atividades
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Silva-D-Romario&theme=tokyo-night&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribuições%20nos%20últimos%2030%20dias"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Silva-D-Romario&label=👁️%20Visualizações%20do%20Perfil&color=58A6FF&style=flat" />
