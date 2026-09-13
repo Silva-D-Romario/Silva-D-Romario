@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Romário Silva 👋</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A859&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia!;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00A859&center=true&vCenter=true&width=500&lines=Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o;Desenvolvedor+Backend+em+forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia!;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </div>
 
 ---
@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 <p>
-  📔 Sou estudante de <strong>Sistemas de Informação</strong> no IFS.
+  📔 Sou Bacharel em <strong>Sistemas de Informação</strong> no IFS.
 </p>
 <p>
   🧑‍💻 Tenho preferência pelo <strong>backend</strong>, mas estou disposto a fazer o front também!
