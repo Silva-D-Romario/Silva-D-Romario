@@ -26,7 +26,7 @@
   <a href="mailto:romariosilva859@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/rom%C3%A1rio-silva-b587b228a" target="_blank">
+  <a href="https://www.linkedin.com/in/romario-silva98/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/romario_f_silva_" target="_blank">
