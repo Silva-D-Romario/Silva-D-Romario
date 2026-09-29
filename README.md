@@ -12,10 +12,10 @@
   📔 Sou Bacharel em <strong>Sistemas de Informação</strong> no IFS.
 </p>
 <p>
-  🧑‍💻 Tenho preferência pelo <strong>backend</strong>, mas estou disposto a fazer o front também!
+  🧑‍💻 Desenvolvedor <strong>backend júnior</strong> com foco em Java, Spring Boot, APIs REST e bancos de dados.
 </p>
 <p>
-  📝 Estou sempre em busca de novos conhecimentos!
+  🎯 Busco uma oportunidade para aplicar meus conhecimentos, evoluir profissionalmente e contribuir com soluções de software.
 </p>
 
 ---
