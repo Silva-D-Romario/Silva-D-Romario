@@ -9,7 +9,7 @@ Atualmente desenvolvo projetos com Java, Spring Boot, PostgreSQL, Docker e teste
 ## Projetos em destaque
 
 - [Career Tracker API](https://github.com/Silva-D-Romario/career-tracker-api) — API REST para acompanhar candidaturas, com JWT, PostgreSQL, Flyway, testes e Docker.
-- [ShortLink](https://github.com/Silva-D-Romario/ShrotLink) — encurtador de URLs full stack com Spring Boot, React e estatísticas de acesso.
+- [ShortLink](https://github.com/Silva-D-Romario/ShortLink) — encurtador de URLs full stack com Spring Boot, React e estatísticas de acesso.
 - [SongFlow](https://github.com/Silva-D-Romario/projeto-web1) — sistema para gerenciar bandas, músicas e repertórios com Spring Boot e Flutter.
 - [Programming With Blockly](https://github.com/Silva-D-Romario/ProgrammingWithBlockly) — ambiente educacional que converte blocos em Java e Portugol.
 - [HomeLab](https://github.com/Silva-D-Romario/HomeLab) — infraestrutura pessoal documentada e executada com Docker Compose.
