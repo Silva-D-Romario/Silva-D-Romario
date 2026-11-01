@@ -9,7 +9,7 @@
 ## 👨‍💻 Sobre mim
 
 <p>
-  📔 Sou Bacharel em <strong>Sistemas de Informação</strong> no IFS.
+  📔 Sou Bacharel em <strong>Sistemas de Informação</strong> pelo Instituto Federal de Sergipe.
 </p>
 <p>
   🧑‍💻 Desenvolvedor <strong>backend júnior</strong> com foco em Java, Spring Boot, APIs REST e bancos de dados.
