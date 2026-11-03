@@ -87,7 +87,7 @@
 
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/00A859/Silva-D-Romario" alt="Calendário de contribuições do GitHub" />
+  <img src="https://ghchart.xqsit94.in/dark:00A859/Silva-D-Romario" alt="Calendário de contribuições do GitHub" />
 </div>
 
 <div align="center">
