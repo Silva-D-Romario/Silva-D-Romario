@@ -87,9 +87,7 @@
 
 
 <div align="center">
- <img
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Silva-D-Romario&theme=tokyonight"
-/>
+  <img src="https://ghchart.rshah.org/58A6FF/Silva-D-Romario" alt="Calendário de contribuições do GitHub" />
 </div>
 
 <div align="center">
